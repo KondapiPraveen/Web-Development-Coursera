@@ -24,12 +24,13 @@ body{
 section > div{
     position:relative;
     height: 200px;
-    border-radius: 5px;
     width:90%;
     margin-left: auto;
     margin-right:auto;
     margin-top:10px;
     margin-bottom:10px;
+    border:1px solid;
+    border-radius: 5px;
 }
 
 .c1{
@@ -67,7 +68,7 @@ section > div{
 div>p{
     padding: 5px;
     margin:10px;
-    clear:right;
+    clear: right;
 }
 
 @media (min-width : 992px){
