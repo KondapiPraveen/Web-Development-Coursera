@@ -45,13 +45,25 @@ section > div{
 }
 
 .title{
-    background-color: lime;
-    border:1px solid;
+    border:1px solid black;
     border-radius: 5px;
     font-size: 20px;
     float: right;
 }
 
+#t1{
+    background-color: lime;
+}
+
+#t2{
+    background-color: darkcyan;
+    color: azure; 
+}
+
+
+#t3{
+    background-color: brown;
+}
 div>p{
     padding: 5px;
     margin:10px;
