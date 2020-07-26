@@ -1,0 +1,37 @@
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  vertical-align: middle;
+  margin-left :15px;
+}
+
+#nav-list li{
+	border: 1px solid;
+	background-color: burlywood;
+}
+
+.container-fluid > section{
+	margin-top: 10px;
+}
+
+.container-fluid > section > h3{
+	text-align : center;
+}
+
+.navbar-brand{
+	margin:0px;
+}
+
+#main-content section{
+	background-color: #bfbfbf;
+	border-radius: 3px;
+}
