@@ -12,7 +12,7 @@
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
 var J ={
-    speakWord : "Goodbye",
+    speakWord : "Good Bye",
     speak : function (name) {
       console.log(this.speakWord + " " + name);
     }
